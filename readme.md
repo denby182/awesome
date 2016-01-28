@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	<img width="400" src="https://rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
+	<img width="400" src="https://waynestohsartanddesign.files.wordpress.com/2012/10/css-love.jpg?w=960" alt="awesome">
 	<br>
 	<br>
 	<br>
